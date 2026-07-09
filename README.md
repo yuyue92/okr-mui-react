@@ -1,6 +1,6 @@
 # OKR Center - React.js 非 TS + MUI 第一版
 
-这是一个使用 **React.js 非 TypeScript + MUI + Vite** 实现的 OKR 系统第一版演示项目。
+这是一个使用 **React.js 非 TypeScript + MUI + Vite** 实现的 OKR 系统第一版演示项目。地址[https://yuyue92.github.io/okr-mui-react/#/login]
 
 当前版本只使用 `mock data`，不连接后端，适合先展示页面效果、业务流程和组件结构。后续可以把 `src/context/OkrContext.jsx` 中的数据操作替换成 Supabase、REST API 或其他后端服务。
 
